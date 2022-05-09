@@ -1,5 +1,5 @@
 # AUTONOMOUS TRADING SYSTEM
-
+In progress and most likely will keep being upgraded with new functionality
 ## Background
 This automated trading system uses trailing stops at its core; many brokerages provide the trailing stop order that can has the ability to limit potential loss without placing a limit on maximum gains.
 
