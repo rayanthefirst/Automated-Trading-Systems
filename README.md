@@ -4,9 +4,9 @@ In progress and most likely will keep being upgraded with new functionality
 This automated trading system uses trailing stops at its core; many brokerages provide the trailing stop order that can has the ability to limit potential loss without placing a limit on maximum gains.
 
 ### Includes:
--Startup manager that controls scheduling, programs as subprocesses, uses open source INI files
--Bot that executes trades, sends emails, adjusts trail percentages, edits CSV configuration files, records trades to CSV
--Backtester that collects market data, runs strategies and updates bot parameters for next trading session, customizable parameters with manual use
+-Startup manager that controls scheduling, programs as subprocesses, uses open source INI files  
+-Bot that executes trades, sends emails, adjusts trail percentages, edits CSV configuration files, records trades to CSV  
+-Backtester that collects market data, runs strategies and updates bot parameters for next trading session, customizable parameters with manual use  
 
 ### Future Functionaity:
 -Backtesting predicted prices using LSTM machine learning model  
