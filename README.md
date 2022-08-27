@@ -11,10 +11,12 @@ This automated trading system uses trailing stops at its core; many brokerages p
 ### Future Functionaity:
 -Backtesting predicted prices using LSTM machine learning model  
 -Outside real time hour trading  
--Production Code rewritten in C++ for speed up  
+-Production Code refactored in C++ for speed up  
 -Shared memory for Backtestermulti (multiprocessed backtester) to avoid forking on non linux systems  
 -Trailing amount option  
 -Stock selector: picks best stocks to use autonomously
+-Implement front end
+-Seperate Brokerage API functionality from strategies
 
 <!-- For example:
 
